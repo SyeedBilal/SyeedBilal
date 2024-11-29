@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @SyeedBilal
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Data Structure & Algorithms
+- 🌱 I’m currently learning nodeJs
+- Technical Skills:
+Programming: JavaScript, C++
+Frontend Development: React, Tailwind CSS, HTML, CSS
+Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ...Full Stack Web Development team 
 - 📫 How to reach me ...syeedbilalkirmaney@gmail.com
 - 😄 Pronouns: ...
